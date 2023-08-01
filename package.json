@@ -1,0 +1,24 @@
+{
+  "type": "module",
+  "name": "friend-connect-petro-win",
+  "version": "1.0.0",
+  "description": "Windows Version Of Friend Connect petrodactly",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --es-module-specifier-resolution=node  --experimental-fetch ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Windows Version Of Friend Connect petrodactly"
+  },
+  "keywords": [
+    "SuperiorNope",
+    "Interstaller"
+  ],
+  "author": "SuperiorNope/Interstaller",
+  "license": "ISC",
+  "dependencies": {
+    "friend-connect": "^0.7.6",
+    "fs": "^0.0.1-security"
+  }
+}
