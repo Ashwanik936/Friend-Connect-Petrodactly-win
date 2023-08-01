@@ -2,6 +2,7 @@
 Windows Version Of Friend Connect pterodactyl !
 # File explaination
 index.js - Important file which hosts everything
+
 settings.js - settings
 
 # HOW TO USE (ONLY 1 CLIENT SUPPORTED)
