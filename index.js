@@ -44,7 +44,7 @@ function hostad(ADName,ADlink,ADemail) {
         new Session({
             hostName: ADName, // The hostname of the server
             worldName: ADlink, // Use as a MOTD
-            version: §e§lAD§r, // The version of the session, this can be any string.
+            version: '§e§lAD§r', // The version of the session, this can be any string.
         
             protocol: 565, //The protocol of the server you are connecting to.
         
