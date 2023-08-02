@@ -24,9 +24,9 @@ export const versionc = true
 
 // AD SETTINGS
 
-export ADName = 'Join This!' // Just hostname
-export ADlink = 'Something u can link to or a description' //Description / just worldname
-export ADemail = 'oooa booga@outtlook.com' //Email..
+export const ADName = 'Join This!' // Just hostname
+export const ADlink = 'Something u can link to or a description' //Description / just worldname
+export const ADemail = 'oooa booga@outtlook.com' //Email..
 
 // ONLY 1 CLIENT SUPPORTED
 // More Client support next update
