@@ -1,5 +1,5 @@
 import { Session } from "friend-connect";
-import { host,ad,HostName,WorldName,Version,protocol,connectedPlayers,maxConnectedPlayers,ip,port,connectionType,maxConnectedPlayersc,ConnectedPlayersc,versionc,emailsADName,ADlink,ADemail } from './settings.js';
+import { host,ad,HostName,WorldName,Version,protocol,connectedPlayers,maxConnectedPlayers,ip,port,connectionType,maxConnectedPlayersc,ConnectedPlayersc,versionc,emails,ADName,ADlink,ADemail } from './settings.js';
 // Normal Hosting
 function hostser(HostName,WorldName,Version,protocol,connectedPlayers,maxConnectedPlayers,ip,port,connectionType,maxConnectedPlayersc,ConnectedPlayersc,versionc,emails,) {
     if (host == 'true') {
